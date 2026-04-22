@@ -1,6 +1,3 @@
-# -----------------------------------------------------------
-# LAB - Literales de Python (Cadenas)
-# -----------------------------------------------------------
 # Este programa muestra el uso de diferentes tipos de literales
 # en Python, especialmente cadenas de texto.
 #
