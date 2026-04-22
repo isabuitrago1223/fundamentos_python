@@ -48,3 +48,19 @@ print(10 / 2)
 print(10 // 3)
 print(10 % 3)
 print(2 ** 3)
+
+## 🧪 Sección 4 - LAB: Variables
+
+### 📌 Descripción
+Este laboratorio muestra cómo crear variables, asignar valores y realizar operaciones básicas en Python.
+
+### 💻 Código
+```python
+john = 3
+mary = 5
+adam = 6
+
+total_apples = john + mary + adam
+
+print(john, mary, adam)
+print("Total de manzanas:", total_apples)
